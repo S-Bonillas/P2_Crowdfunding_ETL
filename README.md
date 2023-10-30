@@ -18,4 +18,4 @@ Extract, Transform, and Load (ETL) demonstration in Python and PostgreSQL
 **'Crowdfunding > Originals' Folder Contains:**
 - ETL_Mini_Project_starter_Code.ipynb (Provided template for the Jupyter notebook)
 - contacts.xlsx (Provided Contact Data, referenced and extracted using Python)
-- crowdfunding.xlsx (Provided Contact Data, referenced and extracted using Python)
+- crowdfunding.xlsx (Provided Campaign Data, referenced and extracted using Python)
