@@ -4,7 +4,7 @@ Extract, Transform, and Load (ETL) demonstration in Python and PostgreSQL
 **'Crowdfunding' Folder Contains:**
 - ETL_Mini_Project_SBonillas.ipynb (Jupyter notebook with Python code (Pandas) which extracts, transforms, and exports the provided Crowdfunding data in preparation for loading to PostgreSQL)
 - Crowdfunding_DB_Schema.sql (Database Schema, created in PostgreSQL, which creates and defines the relationships between the tables in the database)
-- Crowdfunding_DB_Schema_Illustration.png (Screenshot of an illustration of the database relationships.  Created using https://app.quickdatabasediagrams.com/#/)
+- Crowdfunding_DB_Schema_Illustration.png (Screenshot of an illustration of the database relationships.  Created using Quick DBD, available at https://app.quickdatabasediagrams.com/#/)
 - Crowdfunding_DB_SQL_Results.csv (CSV file Exported from PostgreSQL, showing the contents of the created Campaign database)
 - Resources Folder (Provided Source CSVs are housed here)
 - Originals Folder (Original provided project files are housed here)
