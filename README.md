@@ -17,13 +17,14 @@ Extract, Transform, and Load (ETL) demonstration in Python and PostgreSQL
 
 **'Crowdfunding > Screenshots' Folder Contains:**
 - Crowdfunding_DB_Schema_Illustration.png (Screenshot of an illustration of the database relationships.  Created using Quick DBD, available at https://app.quickdatabasediagrams.com/#/)
-- PostgreSQL_Campaign_Results (Screenshot of Query of the Campaign Table in PostgreSQL after loading was complete)
-- PostgreSQL_Category_Results (Screenshot of Query of the Category Table in PostgreSQL after loading was complete)
-- PostgreSQL_Contacts_Results (Screenshot of Query of the Contacts Table in PostgreSQL after loading was complete)
-- PostgreSQL_Subcategory_Results (Screenshot of Query of the Subcategory Table in PostgreSQL after loading was complete)
+- PostgreSQL_Campaign_Results.png (Screenshot of Query of the Campaign Table in PostgreSQL after loading was complete)
+- PostgreSQL_Category_Results.png (Screenshot of Query of the Category Table in PostgreSQL after loading was complete)
+- PostgreSQL_Contacts_Results.png (Screenshot of Query of the Contacts Table in PostgreSQL after loading was complete)
+- PostgreSQL_Subcategory_Results.png (Screenshot of Query of the Subcategory Table in PostgreSQL after loading was complete)
 
 **'Crowdfunding > Originals' Folder Contains:**
 - ETL_Mini_Project_starter_Code.ipynb (Provided template for the Jupyter notebook)
 - contacts.xlsx (Provided Contact Data, referenced and extracted using Python)
 - crowdfunding.xlsx (Provided Campaign Data, referenced and extracted using Python)
+
 
